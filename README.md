@@ -1,4 +1,3 @@
 py
 ==
-
-Python code
+This repository contains Python exercises
