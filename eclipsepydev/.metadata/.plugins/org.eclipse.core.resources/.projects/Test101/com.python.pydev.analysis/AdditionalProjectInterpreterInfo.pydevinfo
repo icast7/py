@@ -1,0 +1,16 @@
+-- VERSION_4
+-- START DISKCACHE
+/Users/icastillejos/Documents/mygithub/py/eclipsepydev/.metadata/.plugins/org.eclipse.core.resources/.projects/Test101/com.python.pydev.analysis/v2_indexcache
+test1|1412820506000|/Users/icastillejos/Documents/mygithub/py/eclipsepydev/Test101/test1.py
+-- END DISKCACHE
+-- START DICTIONARY
+1
+1=test1
+-- END DICTIONARY
+-- START TREE 1
+1
+x|1|x!11@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE
